@@ -1,19 +1,13 @@
 
-# Documents for AppStore
+# Documents for App Store
 
-Repository to maintain documents for the Mac App Store
+The repository to maintain documents for the Mac App Store
 
 
 ## Contribution
 
 Feel free to add description in your language or to fix typos.
 To add a description in another language, please just translate it as it is from the original English version, and do not create your own one.
-
-
-## Notes
-
-- Background color: HSB 83°, 67% 67%
-- Window size: 700 px, 780 px
 
 
 ## License
